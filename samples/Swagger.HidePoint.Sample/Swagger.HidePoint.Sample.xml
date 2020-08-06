@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger.HidePoint.Sample</name>
+    </assembly>
+    <members>
+        <member name="P:Swagger.HidePoint.Sample.Startup.Configuration">
+            <summary>        
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Swagger.HidePoint.Sample.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)" -->
+        <member name="M:Swagger.HidePoint.Sample.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
